@@ -70,3 +70,13 @@ Infelizmente isso obriga mesmo com mais argumentos em campos de busca, incluir m
   - **Dica:** utilize o arquivo fictício para testar em um ambiente simulado.
 ## Arquivo de testes (fictício)<br>
 Recomendo utilizar o exemplo para testar a automação:
+[ABR1997.txt](https://github.com/user-attachments/files/20931464/ABR1997.txt)
+Para usar:
+1. Coloque os arquivos de teste localmente, por exemplo em `C:\Testes\1994\JAN1994`
+2. Altere a linha no código VBA:
+```vba
+caminhoBase = "C:\\Testes\\"
+## 📬 Contato
+
+- LinkedIn: [Matheus Longe](https://www.linkedin.com/in/matheus-longe)
+- E-mail: m.longe.dev@gmail.com
