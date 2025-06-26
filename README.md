@@ -35,6 +35,7 @@ Obs: As informações do exemplo citado acima, são fictícias, meramente ilustr
   - **Arquivo não encontrado:** se o caminho `"G:\ESPELHO DA FOLHA SDE.SUDIC.CIS\..."` estiver incorreto ou inacessível, nenhum dado será lido. Certifique-se de ajustar o caminho ou montar uma estrutura similar localmente. Eu recomendo que você altere esse caminho para uma pasta sua, com um nome mais simples, utilizo essa, pois outros colegas a utilizam.
   - **Estrutura de pastas obrigatória:** os arquivos devem estar organizados em pastas por ano/mês com nomes como `JAN1994`, `FEV1994`, etc.
   - **Funcionário não localizado:** se o nome digitado em `A2` não estiver em nenhum arquivo, o script não colará nada na planilha. E     aqui está um fator do qual não pude simplificar em termos de trativa de erro, exceções. Note:<br>
+```vba
 If copiando Then
                         ' Verificar se encontramos o final do bloco
                         If InStr(1, linha, "MG.CONSIG.") > 0 Or InStr(1, linha, "OUTROS AFASTAMENTOS") > 0 Or InStr(1, linha, "EXERCICIO DE MANDATO ELETIV") > 0 Then
@@ -57,7 +58,7 @@ If copiando Then
                                 blocoEncontrado = False
                             End If
                         End If
-
+```
 Perceba que se o final do bloco **não contiver essas expressões** ("MG.CONSIG.", "OUTROS AFASTAMENTOS", "EXERCÍCIO DE MANDATO ELETIV"), o script pode:
   1. Parar de copiar antes da hora
   2. Ignorar blocos válidos
