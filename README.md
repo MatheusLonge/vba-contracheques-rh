@@ -31,9 +31,6 @@ Obs: As informações do exemplo citado acima, são fictícias, meramente ilustr
   4. Selecione o arquivo `vba-contracheques-rh`.
   5. O código será adicionado automaticamente a um módulo do VBA
   6. Volte para o Excel, ajuste as células `A2` (nome do funcionário) e B2 (data de admissão) na aba `PLAN2`(Essa é a aba do motor de busca), e pressione `F5` no editor para rodar o código.
-## Contato
-  - LinkedIn: [Matheus Longe](https://www.linkedin.com/in/matheus-longe-aa1a221b5)
-  - E-mail: matheus.dev@gmail.com
 ## ⚠️ POSSÍVEIS ERROS E OBSERVAÇÕES
   - **Arquivo não encontrado:** se o caminho `"G:\ESPELHO DA FOLHA SDE.SUDIC.CIS\..."` estiver incorreto ou inacessível, nenhum dado será lido. Certifique-se de ajustar o caminho ou montar uma estrutura similar localmente. Eu recomendo que você altere esse caminho para uma pasta sua, com um nome mais simples, utilizo essa, pois outros colegas a utilizam.
   - **Estrutura de pastas obrigatória:** os arquivos devem estar organizados em pastas por ano/mês com nomes como `JAN1994`, `FEV1994`, etc.
@@ -76,7 +73,7 @@ Para usar:
 2. Altere a linha no código VBA:
 ```vba
 caminhoBase = "C:\\Testes\\"
-## 📬 Contato
 
-- LinkedIn: [Matheus Longe](https://www.linkedin.com/in/matheus-longe)
-- E-mail: m.longe.dev@gmail.com
+## Contato
+  - LinkedIn: [Matheus Longe](https://www.linkedin.com/in/matheus-longe-aa1a221b5)
+  - E-mail: matheus.dev@gmail.com
