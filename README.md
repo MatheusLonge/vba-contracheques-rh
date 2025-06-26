@@ -20,11 +20,11 @@
 ## Exemplos simulado de 1(um) contracheque processado pelo sistema:
 ![image](https://github.com/user-attachments/assets/6e8bf84b-fb2d-4680-a8f5-08f1bdb3a3b8)
 Obs: As informações do exemplo citado acima, são fictícias, meramente ilustrativas.
-## Motor de busca
+## 🔍 Motor de busca
 ![image](https://github.com/user-attachments/assets/4e28e165-53d9-465c-82c5-380dc1038287)
 ## Resultados da busca
 ![image](https://github.com/user-attachments/assets/a9feae35-741e-4b75-b784-aab639f9a04f)
-## Como importar no Excel (VBA)
+## 🧠 Como importar no Excel (VBA)
   1. Abra o Excel (qualquer planilha).
   2. Pressione `ALT + F11` para abrir o **Editor do VBA**
   3. No menu superior, clique em `File > Import File...`
