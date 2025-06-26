@@ -17,3 +17,15 @@
   - Aplicação prática de estruturas de repetição e controle de fluxo em VBA
   - Manipulação de arquivos e strings
   - Automatização de tarefas administrativas reais
+## Exemplos simulado de 1(um) contracheque processado pelo sistema:
+![image](https://github.com/user-attachments/assets/6e8bf84b-fb2d-4680-a8f5-08f1bdb3a3b8)
+Obs: As informações do exemplo citado acima, são fictícias, meramente ilustrativas.
+## Motor de busca
+![image](https://github.com/user-attachments/assets/4e28e165-53d9-465c-82c5-380dc1038287)
+## Resultados da busca
+![image](https://github.com/user-attachments/assets/a9feae35-741e-4b75-b784-aab639f9a04f)
+## Contato
+  - LinkedIn: [Matheus Longe](https://www.linkedin.com/in/matheus-longe-aa1a221b5)
+  - E-mail: matheus.dev@gmail.com
+
+
