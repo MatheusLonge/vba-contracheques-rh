@@ -72,7 +72,8 @@ Para usar:
 1. Coloque os arquivos de teste localmente, por exemplo em `C:\Testes\1994\JAN1994`
 2. Altere a linha no código VBA:
 ```vba
-caminhoBase = "C:\\Testes\\"```
+caminhoBase = "C:\\Testes\\"
+---
 ## Contato
   - LinkedIn: [Matheus Longe](https://www.linkedin.com/in/matheus-longe-aa1a221b5)
   - E-mail: matheus.dev@gmail.com
