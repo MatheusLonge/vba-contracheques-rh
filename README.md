@@ -77,5 +77,5 @@ caminhoBase = "C:\\Testes\\"
 ```
 ## Contato
   - LinkedIn: [Matheus Longe](https://www.linkedin.com/in/matheus-longe-aa1a221b5)
-  - E-mail: matheus.dev@gmail.com
+  - E-mail: m.longe.dev@gmail.com
 
